@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "q265QM6i+5E=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\asasi\\OneDrive\\Desktop\\laboratornii-main\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\MVVMP10LAB.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Для некоторых целевых платформ отсутствует требуемая версия, несмотря на то, что указана платформа: net8.0-ios, net8.0-maccatalyst."
+    }
+  ]
+}
